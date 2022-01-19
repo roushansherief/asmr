@@ -1,0 +1,22 @@
+Sprint 1:
+
+Roushan Sherief -- displaying flights
+Ahmed Khaled -- inserting new flights
+Sherif Moataz -- updating flights' dates
+Malak Mostafa -- deleting flights
+
+--------------------------------------------------
+Sprint 2:
+
+Roushan Sherief -- Reservation
+Ahmed Khaled -- Cancelling Reservation
+Sherif Moataz -- Search
+Malak Mostafa -- Navigation
+
+--------------------------------------------------
+Sprint 3:
+
+Roushan Sherief & Sherief Moataz -- User Registration, Login, Editing Reservation, 
+                                    Stripe API, nodemailer
+
+Ahmed Khaled & Malak Mostafa -- UI & UX

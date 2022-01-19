@@ -1,0 +1,27 @@
+POST http://localhost:3007/addusers
+Content-Type: application/json
+
+{
+    "FirstName" : "Roushan",
+    "LastName" : "Abdelmaksoud",
+    "HomeAddress" : "Tagamo3",
+    "CountryCode" : "+20",
+    "TelephoneNumber" : "01093091155",
+    "CountryCode2" : "",
+    "TelephoneNumber2" : "",
+    "Email" : "roushannsherief@gmail.com",
+    "PassportNumber" : "cant recall",
+    "Username" : "roushan",
+    "Password" : "roushy200"
+}
+
+###
+
+POST http://localhost:3007/login
+Content-Type: application/json
+
+{
+    "Username" : "roushan",
+    "Password" : "roushy200"
+}
+
